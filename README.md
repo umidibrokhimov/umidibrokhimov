@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Umidjo Ibrokhimov</h1>
+<h1 align="center">Hi 👋, I'm Umidjo Ibrokhimov</h1>
 <h3 align="center">A full stack developer from Uzbekistan</h3>
 
 - 🌱 I’m currently learning Backend **Django**
