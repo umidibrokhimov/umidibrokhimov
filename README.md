@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Umidjon Ibrokhimov</h1>
 <h3 align="center">A full stack developer from Uzbekistan</h3>
 
+- 🔭 I’m currently working on [e-commerse](https://ecommerse-tutorial.herokuapp.com/)
+
 - 🌱 I’m currently learning Backend **Django**
+
+- 👯 I’m looking to collaborate on [e-commerse](https://github.com/umidibrokhimov/e-commerse)
+
+- 💬 Ask me about **Python, Django, JavaScript, Vue js, React js**
+
+- 📫 How to reach me **umidjonibrokhimovm@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
