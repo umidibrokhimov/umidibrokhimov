@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Django, JavaScript, Vue js, React js**
 
-- 📫 How to reach me **umidjonibrokhimovm@gmail.com**
+- 📫 How to reach me **ibrokhimov.me@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
