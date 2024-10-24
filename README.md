@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Umidjon Ibrokhimov</h1>
-<h3 align="center">A full stack developer from Uzbekistan</h3>
+<h3 align="center">I'm FUlll Stack developer</h3>
 
-- 🔭 I’m currently working on [Thewayshop](https://thewayshop-crm.herokuapp.com/)
+- 🌱 I’m currently learning Backend **Python, AI**
 
-- 🌱 I’m currently learning Backend **Django, DRF**
-
-- 👯 I’m looking to collaborate on [Thewayshop](https://github.com/umidibrokhimov/thewayshop)
-
-- 💬 Ask me about **Python, Django, JavaScript, Vue js, React js**
+- 💬 Ask me about **Nothing...!**
 
 - 📫 How to reach me **ibrokhimov.me@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Have'nt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
